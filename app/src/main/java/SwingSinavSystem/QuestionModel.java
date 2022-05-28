@@ -8,7 +8,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author ibrahimalshekh
+ * @author Abir Elşekaki
  */
 public class QuestionModel {
     private int id;

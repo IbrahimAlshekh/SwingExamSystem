@@ -17,7 +17,7 @@ import javax.swing.JTextArea;
 
 /**
  *
- * @author ibrahimalshekh
+ * @author Abir Elşekaki
  */
 public class Questions extends java.awt.Frame {
 
